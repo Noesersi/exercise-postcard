@@ -2,8 +2,10 @@ body {
 	background: black;
 }
 * {
+	font-style: bold;
 	font-family: cursive;
 	padding: 1%;
+	
 }
 
 .postcard {
@@ -34,17 +36,19 @@ body {
 	padding: 3px;
 	border: none;
 }
-.body-right {
+.body-right label{
 	text-align: center;
 	padding-left: 3%;
+	display: block;
 }
 .body-left p:first-child {
 	text-align: center;
 	margin-top: none;
 }
 .input {
-	bottom: none;
+	border: none;
 	border-bottom: 1px grey;
+	text-align: center;
 }
 .postcard-footer {
 	text-align: center;
