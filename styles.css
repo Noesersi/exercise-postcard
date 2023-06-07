@@ -45,7 +45,7 @@ body {
 	text-align: center;
 	margin-top: none;
 }
-.input {
+input {
 	border: none;
 	border-bottom: 1px grey;
 	text-align: center;
